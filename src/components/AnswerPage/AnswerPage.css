@@ -1,0 +1,91 @@
+.answer__chat {
+  position: relative;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.answer__title {
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+li {
+  position: relative;
+  content: ();
+  min-height: 50px;
+  width: 350px;
+  padding: 13px;
+  margin: 30px;
+  background-color: blue;
+  border-radius: 10px;
+  list-style-type: none;
+  box-sizing: border-box;
+  color: cornsilk;
+  transition: 0.5s ease-in-out;
+  font-size: 14px;
+  letter-spacing: 1.5px;
+}
+
+.answer__chat li:nth-child(even)::after {
+  position: absolute;
+  right: 370px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  content: "";
+  height: 70px;
+  width: 70px;
+  border-radius: 100%;
+  border: 2px solid black;
+  background-image: url(../../image/myphoto.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.answer__chat li:nth-child(odd)::before {
+  position: absolute;
+  left: 370px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  content: "";
+  height: 70px;
+  width: 70px;
+  border-radius: 100%;
+  border: 2px solid black;
+  background-image: url(../../image/capy__chat.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+li:nth-child(even) {
+  transform: translateX(-70px);
+}
+
+li:nth-child(odd):hover {
+  transform: translateX(-50px);
+}
+li:nth-child(even):hover {
+  transform: translateX(-50px);
+}
+
+.answer__container {
+  margin: 40px 20px;
+}
+
+.answer__text {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.answer__description {
+  margin: 0;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
