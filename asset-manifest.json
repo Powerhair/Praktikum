@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Praktikum/static/css/main.d88ab299.css",
+    "main.css": "/Praktikum/static/css/main.1dc42d3a.css",
     "main.js": "/Praktikum/static/js/main.a73d6e3f.js",
     "static/js/787.2101041e.chunk.js": "/Praktikum/static/js/787.2101041e.chunk.js",
     "static/media/capy__chat.png": "/Praktikum/static/media/capy__chat.30f12cad445ad428d99c.png",
@@ -9,12 +9,12 @@
     "static/media/github-icon.svg": "/Praktikum/static/media/github-icon.3ecf27711255ef69c6785f9440457d46.svg",
     "static/media/telegram-icon.svg": "/Praktikum/static/media/telegram-icon.f2fb44ec26c3094a21bbadbffcd8846f.svg",
     "index.html": "/Praktikum/index.html",
-    "main.d88ab299.css.map": "/Praktikum/static/css/main.d88ab299.css.map",
+    "main.1dc42d3a.css.map": "/Praktikum/static/css/main.1dc42d3a.css.map",
     "main.a73d6e3f.js.map": "/Praktikum/static/js/main.a73d6e3f.js.map",
     "787.2101041e.chunk.js.map": "/Praktikum/static/js/787.2101041e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d88ab299.css",
+    "static/css/main.1dc42d3a.css",
     "static/js/main.a73d6e3f.js"
   ]
 }
