@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Praktikum/static/css/main.d393d99c.css",
+    "main.js": "/Praktikum/static/js/main.67762305.js",
+    "static/js/787.2101041e.chunk.js": "/Praktikum/static/js/787.2101041e.chunk.js",
+    "static/media/capy__chat.png": "/Praktikum/static/media/capy__chat.30f12cad445ad428d99c.png",
+    "static/media/capy.png": "/Praktikum/static/media/capy.48f4ab73f7986ccf718b.png",
+    "static/media/myphoto.jpg": "/Praktikum/static/media/myphoto.63591c60621a860e4a82.jpg",
+    "static/media/github-icon.svg": "/Praktikum/static/media/github-icon.3ecf27711255ef69c6785f9440457d46.svg",
+    "static/media/telegram-icon.svg": "/Praktikum/static/media/telegram-icon.f2fb44ec26c3094a21bbadbffcd8846f.svg",
+    "index.html": "/Praktikum/index.html",
+    "main.d393d99c.css.map": "/Praktikum/static/css/main.d393d99c.css.map",
+    "main.67762305.js.map": "/Praktikum/static/js/main.67762305.js.map",
+    "787.2101041e.chunk.js.map": "/Praktikum/static/js/787.2101041e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d393d99c.css",
+    "static/js/main.67762305.js"
+  ]
+}
