@@ -13,7 +13,11 @@ function Header({
         <a href="https://t.me/stupidhair" target="_blank" rel="noreferrer">
           <img className="link__image" src={telegram} alt="TG" />
         </a>
-        <a href="https://github.com/Powerhair" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/Powerhair/Praktikum/tree/master"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img className="link__image" src={github} alt="GH" />
         </a>
       </div>
