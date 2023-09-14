@@ -1,0 +1,11 @@
+.videopage {
+  width: 700px;
+  height: 415px;
+}
+
+@media screen and (max-width: 700px) {
+  .videopage {
+    width: 515px;
+    height: 280px;
+  }
+}
